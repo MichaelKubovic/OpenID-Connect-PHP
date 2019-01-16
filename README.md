@@ -1,5 +1,8 @@
-PHP OpenID Connect Basic Client
+PHP OpenID Connect Basic Client for PHP 5.3
 ========================
+
+This forks relaxes the PHP requirement for use in legacy applications 
+
 A simple library that allows an application to authenticate a user through the basic OpenID Connect flow.
 This library hopes to encourage OpenID Connect use by making it simple enough for a developer with little knowledge of
 the OpenID Connect protocol to setup authentication.
